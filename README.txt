@@ -1,10 +1,5 @@
-Hello!
+NOTE
 
-This game uses ncurses library, so in order to make it work you have to
-install ncurses to your system. I made a shortcut file for installation 
-to make it easier. Just run "installNcurses.sh".
+This game uses ncurses library, so better install it on your system beforehand.
 
-When that is done, you can execute "run.sh" file.
-
-##NOTE##
-#both sh files are executable, so running via terminal is not required
+Once you have it, you can just execute "run.sh" with double click.
